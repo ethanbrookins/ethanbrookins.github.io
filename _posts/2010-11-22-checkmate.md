@@ -1,14 +1,14 @@
 ---
-id: 342
 title: Checkmate
-date: 2010-11-22T22:26:49+00:00
+date: 2010-11-22 22:26:49 Z
+permalink: "/films/checkmate/"
+categories:
+- Films
+id: 342
 author: Ethan
 layout: post
 guid: http://ethanbrookins.com/?p=342
-permalink: /films/checkmate/
-image: /wp-content/uploads/2011/07/checkmate0.02.24.09.jpg
-categories:
-  - Films
+image: "/wp-content/uploads/2011/07/checkmate0.02.24.09.jpg"
 ---
 
 <img class="alignnone wp-image-380" title="checkmate(0.02.24.09)" src="http://ethanbrookins.com/wp-content/uploads/2011/07/checkmate0.02.24.09-640x272.jpg" alt="" width="700" height="298" srcset="http://ethanbrookins.com/wp-content/uploads/2011/07/checkmate0.02.24.09-640x272.jpg 640w, http://ethanbrookins.com/wp-content/uploads/2011/07/checkmate0.02.24.09-320x136.jpg 320w, http://ethanbrookins.com/wp-content/uploads/2011/07/checkmate0.02.24.09-1280x544.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" /> 

@@ -1,7 +1,7 @@
 ---
-id: 2
 title: About
-date: 2010-11-27T23:23:09+00:00
+date: 2010-11-27 23:23:09 Z
+id: 2
 author: Ethan
 layout: page
 guid: http:/?page_id=2

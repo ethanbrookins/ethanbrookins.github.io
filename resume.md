@@ -1,11 +1,12 @@
 ---
-id: 919
 title: Resume
-date: 2015-03-20T17:14:13+00:00
+date: 2015-03-20 17:14:13 Z
+id: 919
 author: Ethan
 layout: page
 guid: http://ethanbrookins.com/?page_id=919
 ---
+
 <div class="resume">
   <h3>
     Resume
